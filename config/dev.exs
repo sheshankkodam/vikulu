@@ -53,6 +53,6 @@ config :vikulu, Vikulu.Repo,
   adapter: Ecto.Adapters.Postgres,
   username: "postgres",
   password: "postgres",
-  database: "vikulu_dev",
+  database: "vikulu",
   hostname: "localhost",
   pool_size: 10
